@@ -1,10 +1,1 @@
- Le volume dans le lecteur C n'a pas de nom.
- Le num‚ro de s‚rie du volume est DA89-3DA6
-
- R‚pertoire de C:\Users\ib\Desktop\Mon projet
-
-02/05/2021  20:22    <DIR>          .
-02/05/2021  20:22    <DIR>          ..
-02/05/2021  20:22                 0 test1.txt
-               1 fichier(s)                0 octets
-               2 R‚p(s)  752ÿ370ÿ909ÿ184 octets libres
+change
